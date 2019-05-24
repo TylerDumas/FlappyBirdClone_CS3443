@@ -5,7 +5,7 @@ Team Members: Jackson Tyler Dumas - Zachary Ellis - Kevin Tully - Ivy Vasquez Sa
 
 F-L-A-P is a game based off the widely popular mobile game flappy bird. In this app the user selects their character and tries to avoid obstacles (pipes) for as long as possible.
 
-Utilizes: Java, JavaFX, CSS, UML Documentation
+Utilizes: Java, JavaFX, CSS, UML Documentation, Model-View-Controller Design
 
 Bugs - known bugs in the curent build of the game consist of choppy collision and occasional frame rate lag.
 

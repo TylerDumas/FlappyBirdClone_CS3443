@@ -9,4 +9,4 @@ Utilizes: Java, JavaFX, CSS, UML Documentation, Model-View-Controller Design
 
 Bugs - known bugs in the curent build of the game consist of choppy collision and occasional frame rate lag.  Problems with the gitignore prevent cloning correctly.
 
-Java 8 or newer is required to run game - Run in the Eclipse IDE (Preferred)
+Java 8 or newer is required to run game, along with JavaFX - Run in the Eclipse IDE (Preferred)
